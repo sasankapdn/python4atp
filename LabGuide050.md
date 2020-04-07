@@ -66,8 +66,7 @@ To run our Terraform folder in the cloud, we will take advantage of OCI resource
 
   ![](images/050/014.png " ")
 
-
- ## **STEP 5:** Generate your SSH key pair and prepare first script
+## **STEP 5:** Generate your SSH key pair and prepare first script
 
  Here we will get out ssh credentials and prepare the first script to be executable.
 
