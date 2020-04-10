@@ -4,41 +4,41 @@
             "title": "Read Me First",
             "description": "",
             "partnumber": "Ennnnn_01",
-            "publisheddate": "10/31/2019",
+            "publisheddate": "4/10/2020",
             "contentid": "12nnnn",
             "filename": "README.md"
         },
         {         
-            "title": "Lab 050: Setup Cloud Environment",
+            "title": "Lab 1: Setup Cloud Environment",
             "description": "",
             "partnumber": "Ennnnn_01",
-            "publisheddate": "10/31/2019",
+            "publisheddate": "4/10/2020",
             "contentid": "12nnnn",
-            "filename": "LabGuide050.md"
+            "filename": "1.md"
         },
         {         
-            "title": "Lab 200: Build and test python REST Service",
+            "title": "Lab 2: Build and test python REST Service",
             "description": "",
             "partnumber": "Ennnnn_01",
-            "publisheddate": "10/31/2019",
+            "publisheddate": "4/10/2020",
             "contentid": "12nnnn",
-            "filename": "LabGuide200.md"
+            "filename": "2.md"
         },
         {         
-            "title": "Lab 300: Plot data and show nearest service provider on map",
+            "title": "Lab 3: Plot data and show nearest service provider on map",
             "description": "",
             "partnumber": "Ennnnn_01",
-            "publisheddate": "10/31/2019",
+            "publisheddate": "4/10/2020",
             "contentid": "12nnnn",
-            "filename": "LabGuide300.md"
+            "filename": "3.md"
         },
         {         
-            "title": "Lab 400: Show customers based on regions",
+            "title": "Lab 4: Show customers based on regions",
             "description": "",
             "partnumber": "Ennnnn_01",
-            "publisheddate": "10/31/2019",
+            "publisheddate": "4/10/2020",
             "contentid": "12nnnn",
-            "filename": "LabGuide400.md"
+            "filename": "4.md"
         }
 
     ]
