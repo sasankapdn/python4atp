@@ -54,9 +54,9 @@ Follow the instructions to create your account.  Be sure to enter an email you c
 
   **NOTE**: You will likely be prompted to change the temporary password listed in the welcome email. In that case, enter the new password in the password field.
 
-## Navigate to Lab 050
+## Navigate to Lab 1
 
-  - Use the Contents Menu to access the next lab. For example, to proceed to Lab 050, click Lab **Lab 050: Setup Cloud Environment** from the menu on the right.
+  - Use the Contents Menu to access the next lab. For example, to proceed to Lab 050, click Lab **Lab 1: Setup Cloud Environment** from the menu on the right.
 
 Close the menu by clicking the X.
 
