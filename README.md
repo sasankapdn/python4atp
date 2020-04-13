@@ -56,10 +56,12 @@ Follow the instructions to create your account.  Be sure to enter an email you c
 
 ## Navigate to Lab 1
 
-  - Use the Contents Menu to access the next lab. For example, to proceed to Lab 050, click Lab **Lab 1: Setup Cloud Environment** from the menu on the right.
+  - Use the Contents Menu to access the next lab. For example, to proceed to Lab 1, click Lab **Lab 1: Setup Cloud Environment** from the menu on the right.
 
-Close the menu by clicking the X.
+  ![](images/0/WorkshopMenu.png " ")
+
+- Close the menu by clicking the X.
 
   ![](images/0/Menu.png " ")
 
-You're now ready to continue with [**Lab 1**](1.md).
+You're now ready to continue with **Lab 1**.
